@@ -1,0 +1,28 @@
+{
+    "_bIsTrashed": false,
+    "_bIsWithheld": false,
+    "_aFiles": [
+        {
+            "_idRow": 755005,
+            "_sFile": "zipshit.rar",
+            "_nFilesize": 125877685,
+            "_bIsMissing": false,
+            "_sDescription": "ZIP",
+            "_tsDateAdded": 1645831656,
+            "_nDownloadCount": 4008,
+            "_sAnalysisCode": "contains_exe",
+            "_sAnalysisResult": "Archive contains executable",
+            "_bContainsExe": true,
+            "_sDownloadUrl": "https:\/\/download1502.mediafire.com\/igvypu4vkteg\/95k5f431ngyd8a2\/the.zip"
+        }
+    ],
+    "_sLicense": "<a rel=\"license\" href=\"http:\/\/creativecommons.org\/licenses\/by-nc-nd\/4.0\/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https:\/\/i.creativecommons.org\/l\/by-nc-nd\/4.0\/88x31.png\" \/><\/a><br \/>This work is licensed under a <a rel=\"license\" href=\"http:\/\/creativecommons.org\/licenses\/by-nc-nd\/4.0\/\">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License<\/a>.",
+    "_sSubmitterInstructions": "Uh download zip or rar<br><br>Open exe<br><br><br>",
+    "_aSupportedModManagers": [
+        {
+            "_sInstallerName": "FileDaddy",
+            "_sInstallerUrl": "https:\/\/gamebanana.com\/tools\/7015",
+            "_sIconUrl": "https:\/\/images.gamebanana.com\/img\/ico\/tools\/60b59818ea401.png"
+        }
+    ]
+}
